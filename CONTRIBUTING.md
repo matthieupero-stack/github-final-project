@@ -1,7 +1,5 @@
 # Contributing to [github-final-project]
 
-First off, thanks for taking the time to contribute! 💖  
-
 Here’s a quick guide to make your contributions smooth and easy.
 
 ## How to Contribute
@@ -19,4 +17,4 @@ Here’s a quick guide to make your contributions smooth and easy.
 - Always aim for a positive community experience.  
 
  ## Getting Help
-If you need help, open an issue or reach out to [aishaalkashmiri@gmail.com].
+
