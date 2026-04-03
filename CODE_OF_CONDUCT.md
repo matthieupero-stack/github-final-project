@@ -23,5 +23,11 @@ Project maintainers are responsible for clarifying and enforcing standards of ac
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at [aishaalkashmiri@gmail.com].  
 All complaints will be reviewed and investigated promptly and fairly.
 
+## Scope
+
+## Enforcement Guidelines
+
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+
+
